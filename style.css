@@ -394,6 +394,14 @@ h2 {
 
   .skills-section {
     text-align: center;
+    padding: 60px 20px;
+    background-color: #e0e0e0;
+    overflow: auto;
+}
+
+
+  .skills-section {
+    text-align: center;
     height: 100vh;
     padding: 60px 20px;
     background-color: #e0e0e0;
@@ -452,11 +460,13 @@ h2 {
     .about .container .info{
       color: white;
     }
+   
     .skills-section{
       height: auto;
       scroll-snap-type: y mandatory;
       justify-content: center;
-      scroll-snap-align: center;                 
+      scroll-snap-align: center;      
+      padding:20px 10px;           
     }
     .skills-container {
       height: auto;
