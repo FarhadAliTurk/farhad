@@ -389,6 +389,24 @@ h2 {
 
 
 
+
+
+
+  .skills-section {
+    text-align: center;
+    height: 100vh;
+    padding: 60px 20px;
+    background-color: #e0e0e0;
+}
+h2 {
+  font-size: 2.5rem;
+  margin-bottom: 40px;
+  color: #333; /* This is the default text color for h2 */
+}
+
+
+
+
   /* Mobile landscape (480px and below) */
 @media only screen and (max-width: 768px) {
     /* Adjust styles for mobile landscape */
