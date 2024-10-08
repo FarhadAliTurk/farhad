@@ -465,8 +465,8 @@ h2 {
       height: auto;
       scroll-snap-type: y mandatory;
       justify-content: center;
-      scroll-snap-align: center;      
-      padding: 500px 10px 30px 10px;          
+      scroll-snap-align: center;               
+      padding: 600px 10px 30px 10px; 
 
     }
     .skills-container {
