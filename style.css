@@ -466,8 +466,8 @@ h2 {
       scroll-snap-type: y mandatory;
       justify-content: center;
       scroll-snap-align: center;      
-      padding:20px 10px;           
-      margin-top: 30px;
+      padding: 500px 10px 30px 10px;          
+
     }
     .skills-container {
       height: auto;
@@ -477,13 +477,15 @@ h2 {
       scroll-snap-type: y mandatory;
       justify-content: center;
       scroll-snap-align: center;    
+
+
       }
       .skills-heading{
-        background-color: #333333;
-        margin: 20px;
+    
+        margin-bottom: 20px;
       }
       .skill-card {
-        font-size: 14px;
+        font-size: 14p
       }
       .skill-card i {
         font-size: 24px;
